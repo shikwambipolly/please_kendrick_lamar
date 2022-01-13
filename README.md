@@ -4,7 +4,7 @@ python script which checks whether Kendrick Lamar has released a new song in the
 
 NB: Make sure to fill in your own phone number on line 28.
 
-##Scheduling the Python script to run at a prescribed time every day:
+## Scheduling the Python script to run at a prescribed time every day:
 
 **Step 1:** On Windows, seach for "Task Manager' and open it. For Linux/Mac, I'm not too sure so look up a Youtube tutorial on how to set an automatic task.
 
