@@ -1,6 +1,9 @@
 # please_kendrick_lamar
 python script which checks whether Kendrick Lamar has released a new song in the last 24 hours and send you a text message with the result
 
+
+
+
 NB: Make sure to fill in your own phone number on line 28.
 
 Scheduling the Python script to run at a prescribed time every day:
