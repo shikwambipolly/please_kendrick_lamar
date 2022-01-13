@@ -10,4 +10,5 @@ Step 1: On Windows, seach for "Task Manager' and open it. For Linux/Mac, I'm not
 Step 2: Double click on 'create basic task'.
 
 Step 3: Complete the options on the wizard. These options include when you want the scheduled task to run, the path to the script you want to run, and any arguments to the script.
+
 ///
