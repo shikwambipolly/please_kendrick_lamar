@@ -25,7 +25,7 @@ def send_message(message):
     message = client.messages.create(
         body=message,
         from_='+17156414607',
-        to='+264817706177'
+        to='+//YOUR OWN PHONE NUMBER'
     )
 
 
